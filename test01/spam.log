@@ -1,0 +1,10 @@
+2021-03-30 14:00:35,883 - simple_example - DEBUG - debug message
+2021-03-30 14:00:35,884 - simple_example - INFO - info message
+2021-03-30 14:00:35,884 - simple_example - WARNING - warn message
+2021-03-30 14:00:35,884 - simple_example - ERROR - error message
+2021-03-30 14:00:35,884 - simple_example - CRITICAL - critical message
+2021-03-30 14:06:16,204 - dcm2nii - DEBUG - debug message
+2021-03-30 14:06:16,204 - dcm2nii - INFO - info message
+2021-03-30 14:06:16,205 - dcm2nii - WARNING - warn message
+2021-03-30 14:06:16,205 - dcm2nii - ERROR - error message
+2021-03-30 14:06:16,205 - dcm2nii - CRITICAL - critical message
